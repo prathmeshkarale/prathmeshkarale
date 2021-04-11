@@ -35,7 +35,6 @@ A dedicated worker, self-starter, team player and multi-tasker pursuing B.Tech(C
 - 👨🏻‍I'm Spending most of my time on Software vulnerabilities and Threat Detection. 🤙
 - 📫 Reach me at : prathmesh.1501.k@gmail.com For any kind of assistance. I'm always ready to help ☺✌
 - 💬 Any Queries? Ask me [here](https://www.linkedin.com/in/prathmesh-karale-14ba21191/)! 👈
-- ❎ In case you face any issues in any of my Repositories, you can Hit Me Up [here](https://github.com/prathmeshkarale/prathmeshkarale/issues)! 👈
 
 ### Languages and Tools:
 
@@ -45,17 +44,4 @@ A dedicated worker, self-starter, team player and multi-tasker pursuing B.Tech(C
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-### Devlopment Stats:
-
-<details>	
-  <summary><b>📊 Github Stats </b></summary>
-
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=prathmeshkarale&show_icons=true&hide_border=true" width="100%"/></br>
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshkarale&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"  width="100%"/>
-</details>
-
-
----
 
