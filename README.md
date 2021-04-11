@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://www.https://www.linkedin.com/in/prathmesh-karale-14ba21191/">
+<a href="https://www.linkedin.com/in/prathmesh-karale-14ba21191/">
   <img align="left" alt="Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
