@@ -8,7 +8,7 @@
   <img align="left" alt="Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://https://twitter.com/KaralePrathmesh">
+<a href="https://twitter.com/KaralePrathmesh">
   <img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
