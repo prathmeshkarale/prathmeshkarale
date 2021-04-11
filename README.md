@@ -27,7 +27,7 @@ A dedicated worker, self-starter, team player and multi-tasker pursuing B.Tech(C
 
  You can see my Portfolio at : **http://prathmeshkarale.github.io/** <br/>
 
- <img align="right" height="240" width="355" alt="gif" src="https://tenor.com/view/android-developer-gif-20850575" /> 
+ <img align="right" height="240" width="355" alt="gif" src="https://github.com/adarshaacharya/adarshaacharya/blob/master/assets/programmer.gif" /> 
 
 ### Some more Information about me
 
