@@ -23,7 +23,8 @@
 <br/>
 <br/>
 
-A dedicated worker, self-starter, team player and multi-tasker pursuing B.Tech(CSE) from Vellore Institute of Technology, Bhopal. I was born and raised in Pune.I'm an app developer and programmer with grasp of Java, Python, Linux and DBMS in detail, seeking to leverage acquired academic knowledge to practical use 💻. I love to explore new technologies and use them to solve real-life problems 🤖. I'm currently doing research in the field of Adversarial Malware Generation for API Call based classifiers.
+A dedicated worker, self-starter, team player and multi-tasker pursuing B.Tech(CSE) from Vellore Institute of Technology, Bhopal. I was born and raised in Pune.I'm an app developer and programmer with grasp of Java, Python, Linux and DBMS in detail, seeking to leverage acquired academic knowledge to practical use 💻. I love to explore new technologies and use them to solve real-life problems 🤖
+.
 
  You can see my Portfolio at : **http://prathmeshkarale.github.io/** <br/>
 
